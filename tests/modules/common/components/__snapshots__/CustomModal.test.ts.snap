@@ -1,0 +1,21 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CustomModal > renders dialog with header, body and footer slots 1`] = `
+"<dialog class="modal">
+  <div class="modal-box">
+    <div class="border-b border-blue-500">
+      <!-- HEADER -->
+      <div>Header</div>
+    </div>
+    <div class="my-5">
+      <!-- BODY -->
+      <div>Body</div>
+    </div>
+    <div class="border-t border-t-blue-500 pt-2">
+      <!-- FOOTER -->
+      <div>Footer</div>
+    </div>
+  </div>
+</dialog>
+<!--v-if-->"
+`;

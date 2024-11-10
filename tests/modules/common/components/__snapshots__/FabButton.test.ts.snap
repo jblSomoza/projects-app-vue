@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`FabButton > renders slot content inside button 1`] = `
+"<button data-v-a0e39dc5="" class="btn btn-circle btn-secondary fixed bottom-10 right-10 bottom-right">
+  <div>Test</div>
+</button>"
+`;
+
+exports[`FabButton > renders with custom position 1`] = `"<button data-v-a0e39dc5="" class="btn btn-circle btn-secondary fixed bottom-10 right-10 top-left"></button>"`;
+
+exports[`FabButton > renders with default position 1`] = `"<button data-v-a0e39dc5="" class="btn btn-circle btn-secondary fixed bottom-10 right-10 bottom-right"></button>"`;
